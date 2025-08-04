@@ -1,7 +1,7 @@
 <header>
 
 # Hello GitHub Actions
-#hi
+#hello
 _Create and run a GitHub Actions workflow._
 
 </header>
